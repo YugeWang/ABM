@@ -1,3 +1,3 @@
 # ABM
 
-This reposotory contains the modifed two models and the sugar.txt file
+This repository contains the modifed two models and the sugar.txt file
